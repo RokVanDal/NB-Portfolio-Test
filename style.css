@@ -1,0 +1,59 @@
+body{
+    background-color: black;
+}
+
+header{
+    padding: 10px;
+}
+
+button{
+    font-family: monospace;
+    color: greenyellow;
+    background-color: black;
+    border-radius: 40%;
+    border-color: greenyellow;
+    border-style: solid;
+    padding: 5px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+p{
+    color: greenyellow;
+    text-align: left;
+    font-size: 20px;
+    font-family: monospace;
+    
+}
+
+h1{
+    color: greenyellow;
+    text-align: left;
+    font-size: 50px;
+    font-family: monospace;
+}
+
+a{
+    color: greenyellow;
+    text-decoration: none;
+    cursor: pointer;
+    font-family: monospace;
+    
+}
+
+
+ul{
+    color: greenyellow;
+    font-family: monospace;
+    text-align: left;
+    font-size: 20px;
+
+}
+
+footer{
+    color: greenyellow;
+    font-family: monospace;
+    padding: 5px;
+    text-align: center;
+    font-size: 10px;
+}
